@@ -17,8 +17,7 @@ Requirements:
 ```
 move_to_background:
     git: 
-        url: https://github.com/plan-net-technology/flutter-plugin-move-to-background
-.git
+        url: https://github.com/plan-net-technology/flutter-plugin-move-to-background.git
 ```
 
 **Usage example:**
