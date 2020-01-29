@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - move_to_background (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios`)
+  - move_to_background (from `.symlinks/plugins/move_to_background/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  move_to_background:
+    :path: ".symlinks/plugins/move_to_background/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  move_to_background: e1bc14e824bb1cd2d879e36366bd648515179de6
+
+PODFILE CHECKSUM: b6a0a141693093b304368d08511b46cf3d1d0ac5
+
+COCOAPODS: 1.8.3
