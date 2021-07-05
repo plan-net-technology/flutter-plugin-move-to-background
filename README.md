@@ -3,8 +3,8 @@ The plugin will be used whithin the Flutter Dart code so that at some point the 
 The plugin does nothign for iOS.
 
 Requirements:
-* Flutter version 1.12.13+hotfix.5
-* Dart version 2.7.0
+* Flutter version 2.2.2
+* Dart version >=2.12.0 <3.0.0
 * Android Studio 3.5.3 (Build #AI-191.8026.42.35.6010548, built on November 15, 2019)
 * Xcode Version 11.3.1 (11C504)
 * CocoaPods 1.8.1+
